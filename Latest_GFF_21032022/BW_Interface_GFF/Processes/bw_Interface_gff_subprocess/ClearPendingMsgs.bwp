@@ -2212,8 +2212,7 @@
                     </tibex:config>
                 </tibex:activityExtension>
             </bpws:extensionActivity>
-            <bpws:scope name="Repeat" tibex:group="repeatUntil"
-                tibex:indexToGlobal="false" tibex:xpdlId="9a524855-272f-45fe-a89f-aa3f66b42eda">
+            <bpws:scope name="Repeat" tibex:group="repeatUntil" tibex:xpdlId="9a524855-272f-45fe-a89f-aa3f66b42eda">
                 <bpws:targets>
                     <bpws:target linkName="StartToRepeat"/>
                 </bpws:targets>
@@ -2318,8 +2317,7 @@
                     </bpws:repeatUntil>
                 </bpws:sequence>
             </bpws:scope>
-            <bpws:scope name="Repeat1" tibex:group="repeatUntil"
-                tibex:indexToGlobal="false" tibex:xpdlId="b6c827dc-324d-4c1b-ba15-0335e057eaae">
+            <bpws:scope name="Repeat1" tibex:group="repeatUntil" tibex:xpdlId="b6c827dc-324d-4c1b-ba15-0335e057eaae">
                 <bpws:targets>
                     <bpws:target linkName="RepeatToRepeat1"/>
                 </bpws:targets>

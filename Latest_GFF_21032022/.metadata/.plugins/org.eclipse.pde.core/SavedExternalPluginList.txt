@@ -1,4 +1,4 @@
-# List of external plug-in models previously loaded. Timestamp: 1663307785490
+# List of external plug-in models previously loaded. Timestamp: 1663308255272
 file:/C:/Tibco_bw6.8/bw/6.8/config/drivers/shells/jdbc.oracle.runtime/runtime/plugins/com.tibco.bw.jdbc.datasourcefactory.oracle/
 file:/C:/Tibco_bw6.8/bw/6.8/system/lib/common/org.eclipse.osgi.compatibility.state_1.0.1.v20140709-1414.jar
 file:/C:/Tibco_bw6.8/bw/6.8/system/lib/common/org.eclipse.osgi_3.15.300.v20200520-1959.jar
